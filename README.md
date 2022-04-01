@@ -13,7 +13,7 @@ The Hyperverse FastCamp is a series of mini boot camps designed to help Web2 dev
 # Available Metis Modules
 
 Tribes and Token
-
+Project: Create an utility token for service payment(such as power, water bills, etc)
 [Learn more about our modules.](https://docs.hyperverse.dev/basics/modules)
 
 ## Project Ideas for Metis Dapp
