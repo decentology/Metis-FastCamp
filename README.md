@@ -58,7 +58,7 @@ DappStarter: Token Marketplace
 
 ### Foskaay's dApp Ideas 1
 
-Chat groups for developers - classified into experience levels to ensure they join groups that meet the skill levels need!
+Chat groups for developers - classified into experience levels to ensure they join groups that meet the skill levels needed!
 Smart Modules: Tribes (Metis)
 
 ### Foskaay's dApp Ideas 2
