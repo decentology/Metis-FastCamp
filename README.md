@@ -55,3 +55,13 @@ DappStarter: Token Marketplace
 [Discourse](forum.decentology.com) | 
 [Twitter](www.twitter.com/decentology) | 
 [Decentology](www.decentology.com)
+
+### Foskaay's dApp Ideas 1
+
+Chat groups for developers - classified into experience levels to ensure they join groups that meet the skill levels need!
+Smart Modules: Tribes (Metis)
+
+### Foskaay's dApp Ideas 2
+
+Crypto token generator - where users have access to easy frontend interface to crate crypto tokens on Metis in a few button clicks without coding!
+Smart Modules: Token (Metis)
