@@ -55,3 +55,10 @@ DappStarter: Token Marketplace
 [Discourse](forum.decentology.com) | 
 [Twitter](www.twitter.com/decentology) | 
 [Decentology](www.decentology.com)
+
+# @astrogenius's Project idea:
+
+## 1. Survey App 
+
+A survey app that aggregates responses and suggests a group to join based on the responses. This will use the *Tribes Module* Each group or tribe would have it's own forum or chat exclusively for group members. 
+
